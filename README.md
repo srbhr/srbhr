@@ -10,7 +10,7 @@
 
 <div align="center">
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srbhr&layout=compact&theme=chartreuse-dark)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srbhr&layout=compact&theme=chartreuse-dark&hide_border=true)
 
 </div>
 
