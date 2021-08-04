@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋 I'm Saurabh Rai </h1>
+<h1 align='center' style="color:DodgerBlue;"> Hi there 👋 I'm Saurabh Rai </h1>
 <!-- 
 ![Metrics](https://metrics.lecoq.io/srbhr?template=classic&isocalendar=1&languages=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta) -->
 <div align="center">
