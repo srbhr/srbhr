@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 * * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -14,8 +14,11 @@ jobs:
         with:
           filename: github-metrics.svg
           token: ${{ secrets.GH_METRICS }}
-          base: ""
+          template: classic
+          base: header, activity, community, repositories, metadata
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_achievements: yes
+          plugin_languages: yes
+          plugin_languages_colors: github
           plugin_achievements_display: compact
