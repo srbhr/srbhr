@@ -4,7 +4,7 @@
 <img align="center" src="/github-metrics.svg" alt="Metrics">
 </div>
 
-<div>
+<div align="center">
 <img align="center" src="/metrics.classic.svg" alt="Metrics">
 </div>
 
