@@ -4,9 +4,9 @@
 <img align="center" src="/github-metrics.svg" alt="Metrics">
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <img align="center" src="/metrics.classic.svg" alt="Metrics">
-</div>
+</div> -->
 
 <p align="center">
 
