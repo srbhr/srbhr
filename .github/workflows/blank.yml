@@ -12,4 +12,5 @@ jobs:
     steps:
       - uses: srbhr/metrics@main
         with:
+          filename: metrics.classic.svg
           token: ${{ secrets.GH_METRICS }}
