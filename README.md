@@ -1,6 +1,8 @@
 <h1 align='center' style="color:DodgerBlue;"> Hi there 👋 I'm Saurabh Rai </h1>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400"/>
+<div align="center">
+<img align="center" src="/github-metrics.svg" alt="Metrics">
+</div>
 
 <p align="center">
 
