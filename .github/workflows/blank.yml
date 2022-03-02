@@ -14,3 +14,7 @@ jobs:
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.GH_METRICS }}
+          name: Full-year calendar
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
