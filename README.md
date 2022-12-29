@@ -10,7 +10,7 @@
 
 <p align="center">
 
-<img width = 48% src = "https://github-readme-stats.vercel.app/api?username=srbhr&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=srbhr&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
  
 </p>
 
