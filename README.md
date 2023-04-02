@@ -1,12 +1,20 @@
-<h1 align='center' style="color:DodgerBlue;"> Hi there 👋 I'm Saurabh Rai </h1>
+![Hi I'm Saurabh](srbhr.png)
+
+👋 Hey there! I'm Saurabh, a Sofware Developer 💻 with ~2 years of experience 🚀. I'm currently working on building responsive applications and websites 🌐 using Angular, JavaScript, TypeScript, HTML, and CSS 🎨 for front-end development.On the back-end, in Java, Groovy, and SpringBoot 🌟.
+
+I'm passionate about continuously learning 📚 and keeping up with the latest technology trends 💡. Let's connect and make something awesome! 🤝
+
+<div align="center">
+
+![Total Stars on GitHub](https://custom-icon-badges.demolab.com/github/stars/srbhr?affiliations=OWNER&style=social&logo=star&logoColor=black)
+
+![Follow Me on GitHub](https://img.shields.io/github/followers/srbhr?style=social)
+
+</div>
 
 <div align="center">
 <img align="center" src="/github-metrics.svg" alt="Metrics">
 </div>
-
-<!-- <div align="center">
-<img align="center" src="/metrics.classic.svg" alt="Metrics">
-</div> -->
 
 <p align="center">
 
