@@ -2,9 +2,9 @@
 
 <h1 align="center">😎 Hi! I'm Saurabh Rai</h1>
 
-As a Full-stack developer with ~1.6 years of experience. I'm proficient in Angular, JavaScript, HTML/CSS, Java, and Spring Boot, adept at crafting seamless and efficient web applications.
+I'm a full-stack developer with 2+ Years of Experience. Actively looking for work, SDE roles. If you like my work, please recommend/introduce me to any opportunity.
 
-Passionate about contributing to open-source projects and actively seeking out opportunities to lend my expertise to the community by contributing to various projects.
+Reach out here 👇
 
 <br/>
 
