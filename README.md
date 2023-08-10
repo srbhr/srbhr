@@ -19,10 +19,8 @@ Meanwhile check: **[Free Open Source ATS "Resume Matcher"](https://github.com/sr
 <a href="https://linkedin.com/in/srbhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srbhr" height="30" width="40" /></a>
 <a href="https://kaggle.com/srbh77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srbhr" height="30" width="40" /></a>
 <a href="https://instagram.com/srbhr.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srbhr.dev" height="30" width="40" /></a>
-<a href="https://hashnode.com/@srbhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@srbhr" height="30" width="40" /></a>
 <a href="https://medium.com/@srbhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srbhr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/srbhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srbhr" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@srbhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@srbhr" height="30" width="40" /></a>
 </p>
 
 <br/>
@@ -42,6 +40,10 @@ Meanwhile check: **[Free Open Source ATS "Resume Matcher"](https://github.com/sr
 </div>
 
 <br/>
+
+<details>
+
+<summary>📊 GitHub Stats</summary> 
 
 <div align="center">
 
@@ -70,7 +72,11 @@ Meanwhile check: **[Free Open Source ATS "Resume Matcher"](https://github.com/sr
 </div>
 <br/>
 
-<h3 align="center">Support My Work:</h3>
-<p><a href="https://www.buymeacoffee.com/srbhr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="srbhr" /></a>
+</details>
 
-<a href="https://github.com/sponsors/srbhr"> <img align="right" src="assets/mono.png" height="50" width="210" alt="srbhr" /></a></p><br><br>
+<div align="center"> 
+  
+<h3>Support My Work:</h3>
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/srbhr) [![Sponsor on GitHub](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/srbhr)
+</div>
