@@ -2,7 +2,7 @@
 
 <h1 align="center">😎 Hi! I'm Saurabh Rai</h1>
 
-I'm a full-stack developer with 2+ Years of Experience. Actively looking for work, SDE roles. If you like my work, please recommend/introduce me to any opportunity.
+I'm a seasoned full-stack developer with over 2 years of experience, having served in developer relations and as an open-source mentor. I'm currently crafting 'Resume Matcher,' a Python-driven ATS harnessing the prowess of Machine Learning, Generative AI, and Vector Databases. I'm actively exploring job opportunities and roles. If my expertise aligns well with what you're looking for or is impressed by my work, I'd greatly appreciate any recommendations or introductions to potential opportunities.
 
 <div align="center">
 
