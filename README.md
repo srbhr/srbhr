@@ -1,14 +1,25 @@
 <img src="assets/headerimage.jpg" height=50% alt="Philosophy at the center of everything.">
 
-<h1 align="center">😎 Hi! I'm Saurabh Rai</h1>
+<h1 align="center">Hi! 👋   I'm Saurabh Rai</h1>
 
-I'm a seasoned full-stack developer with over 2 years of experience, having served in developer relations and as an open-source mentor. I'm currently crafting 'Resume Matcher,' a Python-driven ATS harnessing the prowess of Machine Learning, Generative AI, and Vector Databases. I'm actively exploring job opportunities and roles. If my expertise aligns well with what you're looking for or is impressed by my work, I'd greatly appreciate any recommendations or introductions to potential opportunities.
+Full-stack dev working on cutting-edge AI Infrastructure. My latest project? An AI powered tool to outsmart resume bots.
+
+Intrigued? Let's connect – find me on socials or schedule a 15 min call at [cal.com/srbhr](cal.com/srbhr).
 
 <div align="center">
 
-Meanwhile check: **[Free Open Source ATS "Resume Matcher"](https://github.com/srbhr/Resume-Matcher)**
+[![Resume Matcher](https://custom-icon-badges.demolab.com/badge/Cal/srbhr-white?style=for-the-badge&logo=calendar&logoColor=black)](https://cal.com/srbhr)
 
-[![Resume Matcher](https://custom-icon-badges.demolab.com/badge/Resume_Matcher-orange?style=for-the-badge&logo=rocket&logoColor=black)](https://github.com/srbhr/Resume-Matcher)
+</div>
+
+
+Tired of your resume getting lost in the black hole? I'm building a tool to beat those automated screening systems. Curious how it works?
+ **[Resume Matcher](https://github.com/srbhr/Resume-Matcher)**
+
+ <div align="center">
+
+
+[![Resume Matcher](https://custom-icon-badges.demolab.com/badge/Resume_Matcher-navy?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/srbhr/Resume-Matcher)
 
 </div>
 
@@ -27,7 +38,7 @@ Meanwhile check: **[Free Open Source ATS "Resume Matcher"](https://github.com/sr
 
 <div align="center">
 
-[![My Personal Website](https://custom-icon-badges.demolab.com/badge/www.saurabhraidev.co-gold?style=for-the-badge&logo=globe&logoColor=black)](https://www.saurabhraidev.co) [![My Email](https://custom-icon-badges.demolab.com/badge/-srhb077@gmail.com-red?style=for-the-badge&logo=mail&logoColor=white)](mailto:srbh077@gmail.com)
+[![My Personal Website](https://custom-icon-badges.demolab.com/badge/srbhr.com-gold?style=for-the-badge&logo=globe&logoColor=black)](https://srbhr.com) [![My Email](https://custom-icon-badges.demolab.com/badge/-saurabh@srbhr.com-black?style=for-the-badge&logo=mail&logoColor=white)](mailto:saurabh@srbhr.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=srbhr&color=green&style=for-the-badge) [![Total Stars on Github](https://custom-icon-badges.demolab.com/github/stars/srbhr?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/srbhr?tab=repositories&sort=stargazers)
 
@@ -82,10 +93,3 @@ Meanwhile check: **[Free Open Source ATS "Resume Matcher"](https://github.com/sr
 <br/>
 
 </details>
-
-<div align="center"> 
-  
-<h3>Support My Work:</h3>
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/srbhr) [![Sponsor on GitHub](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/srbhr)
-</div>
