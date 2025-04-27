@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Saurabh Rai, nice to meet you
+# Hi! 👋 I'm Saurabh Rai, nice to meet you 😁
 
 I'm a developer specializing in growth engineering, developer relations, LLMs, and AI development. As the creator of Resume Matcher and a technical writer on various platforms, I'm passionate about building products that solve real-world problems and help people achieve their goals.
 
@@ -8,7 +8,8 @@ You can find more about me on my [website](https://srbhr.com) and connect with m
 
 Tailor your resume to job descriptions using AI. Resume Matcher analyzes your resume and the job description, providing suggestions to improve your chances of getting hired.
 
-[![Resume Matcher](https://custom-icon-badges.demolab.com/badge/Resume_Matcher-%23FFCF00?style=for-the-badge&logo=rocket&logoColor=black)](https://github.com/srbhr/Resume-Matcher) [![Resume Matcher](https://custom-icon-badges.demolab.com/badge/8.7K+_Stars-%23FF0000?style=for-the-badge&logo=stars)](https://github.com/srbhr/Resume-Matcher)  [![Resume Matcher](https://custom-icon-badges.demolab.com/badge/3.2K+_Forks-%233880FF?style=for-the-badge&logo=fork)](https://github.com/srbhr/Resume-Matcher) 
+[![Resume Matcher](https://custom-icon-badges.demolab.com/badge/Resume_Matcher-FCD535?style=for-the-badge&logo=rocket&logoColor=black)](https://github.com/srbhr/Resume-Matcher) [![Resume Matcher](https://custom-icon-badges.demolab.com/badge/8.7K+_Stars-168363?style=for-the-badge&logo=stars)](https://github.com/srbhr/Resume-Matcher)  [![Resume Matcher](https://custom-icon-badges.demolab.com/badge/3.3K+_Forks-E6007A?style=for-the-badge&logo=fork)](https://github.com/srbhr/Resume-Matcher)  [![resumematcher.fyi](https://custom-icon-badges.demolab.com/badge/resumematcher.fyi-navy?style=for-the-badge&logo=web)](https://github.com/srbhr/Resume-Matcher) 
+
 
 
 ## 🌐 Connect with me:
