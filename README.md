@@ -1,95 +1,27 @@
-<img src="assets/headerimage.jpg" height=50% alt="Philosophy at the center of everything.">
+<img src="assets/headerimage.jpg" height=40% alt="Philosophy at the center of everything.">
 
-<h1 align="center">Hi! 👋   I'm Saurabh Rai</h1>
+# Hi! 👋 I'm Saurabh Rai
 
-Full-stack dev working on cutting-edge AI Infrastructure. My latest project? An AI powered tool to outsmart resume bots.
+I'm a developer specializing in growth engineering, developer relations, and AI application development. I created [Resume Matcher](https://github.com/srbhr/Resume-Matcher), an AI-powered tool helping job seekers get hired faster.
 
-Intrigued? Let's connect – find me on socials or schedule a 15 min call at [cal.com/srbhr](cal.com/srbhr).
-
-<div align="center">
-
-[![Resume Matcher](https://custom-icon-badges.demolab.com/badge/Cal/srbhr-white?style=for-the-badge&logo=calendar&logoColor=black)](https://cal.com/srbhr)
-
-</div>
+You can find more about me on my [website](https://srbhr.com) or check out my [LinkedIn](https://linkedin.com/in/srbhr) profile.
 
 
-Tired of your resume getting lost in the black hole? I'm building a tool to beat those automated screening systems. Curious how it works?
- **[Resume Matcher](https://github.com/srbhr/Resume-Matcher)**
+##  Checkout [Resume Matcher](https://github.com/srbhr/Resume-Matcher) to get hired faster!
 
- <div align="center">
+Tailor your resume to job descriptions using AI. Resume Matcher analyzes your resume and the job description, providing suggestions to improve your chances of getting hired.
 
 
-[![Resume Matcher](https://custom-icon-badges.demolab.com/badge/Resume_Matcher-navy?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/srbhr/Resume-Matcher)
+[![Resume Matcher](https://custom-icon-badges.demolab.com/badge/Resume_Matcher-00C300?style=for-the-badge)](https://github.com/srbhr/Resume-Matcher) [![Resume Matcher](https://custom-icon-badges.demolab.com/badge/8.7K+_Stars-%23FF0000?style=for-the-badge&logo=stars)](https://github.com/srbhr/Resume-Matcher)  [![Resume Matcher](https://custom-icon-badges.demolab.com/badge/3.2K+_Forks-%233880FF?style=for-the-badge&logo=fork)](https://github.com/srbhr/Resume-Matcher) 
 
-</div>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://dev.to/srbhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="srbhr" height="30" width="40" /></a>
-<a href="https://twitter.com/_srbhr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_srbhr_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/srbhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srbhr" height="30" width="40" /></a>
-<a href="https://kaggle.com/srbh77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srbhr" height="30" width="40" /></a>
-<a href="https://instagram.com/srbhr.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srbhr.dev" height="30" width="40" /></a>
-<a href="https://medium.com/@srbhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srbhr" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/srbhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srbhr" height="30" width="40" /></a>
-</p>
+## Connect with me:
 
-<br/>
 
-<div align="center">
-
-[![My Personal Website](https://custom-icon-badges.demolab.com/badge/srbhr.com-gold?style=for-the-badge&logo=globe&logoColor=black)](https://srbhr.com) [![My Email](https://custom-icon-badges.demolab.com/badge/-saurabh@srbhr.com-black?style=for-the-badge&logo=mail&logoColor=white)](mailto:saurabh@srbhr.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=srbhr&color=green&style=for-the-badge) [![Total Stars on Github](https://custom-icon-badges.demolab.com/github/stars/srbhr?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/srbhr?tab=repositories&sort=stargazers)
-
-</div>
-
-<br/>
-
-<details>
-  <summary> My 💻 Tech Stack </summary>
-  
-<div align="center">
-
-# 💻 Tech Stack:
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle SQL Developer](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white) ![Groovy](https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) ![Prime Ng](https://custom-icon-badges.demolab.com/badge/-prime%20ng-white?style=for-the-badge&logo=prime-ng&logoColor=red) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-
-</div>
-
-</details>
-
-<br/>
-
-<details>
-
-<summary>📊 GitHub Stats</summary> 
-
-<div align="center">
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=srbhr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=srbhr&theme=dark&hide_border=false)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br>
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=srbhr&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-<br/>
-
-</details>
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/srbhr)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srbhr)
+[![Twitter/X](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)]()
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]()
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)]()
+[![Cal.com/srbhrai](https://custom-icon-badges.demolab.com/badge/Cal/srbhrai-white?style=for-the-badge&logo=calendar&logoColor=black)](https://cal.com/srbhr) [![srbhr.com](https://custom-icon-badges.demolab.com/badge/srbhr.com-gold?style=for-the-badge&logo=globe&logoColor=black)](https://srbhr.com) 
+[![srbh077@gmail.com](https://custom-icon-badges.demolab.com/badge/-srbh077@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srbh077@gmail.com)
