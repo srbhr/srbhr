@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Saurabh Rai, nice to meet you 😁
 
-I'm a developer specializing in growth engineering, developer relations, LLMs, and AI development. As the creator of Resume Matcher and a technical writer on various platforms, I'm passionate about building products that solve real-world problems and help people achieve their goals.
+I'm a developer with over 4 years of experience working in software development, growth engineering, developer relations, AI & LLMs development. As the creator of Resume Matcher and a technical writer on various platforms, I'm passionate about building products that solve real-world problems and help people achieve their goals.
 
 You can find more about me on my [website](https://srbhr.com) and connect with me on [LinkedIn](https://linkedin.com/in/srbhr).
 
