@@ -1,6 +1,4 @@
-<img src="assets/headerimage.jpg" height=70 alt="Philosophy at the center of everything.">
-
-# Hi! 👋 I'm Saurabh Rai
+# Hi! 👋 I'm Saurabh Rai, nice to meet you
 
 I'm a developer specializing in growth engineering, developer relations, LLMs, and AI development. As the creator of Resume Matcher and a technical writer on various platforms, I'm passionate about building products that solve real-world problems and help people achieve their goals.
 
@@ -24,7 +22,7 @@ Tailor your resume to job descriptions using AI. Resume Matcher analyzes your re
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]()
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)]()
 
-### If you'd like to book a call with me, you can do so here:
+### If you'd like to book a call with me:
 
 We can discuss anything from AI, LLMs, and growth engineering to developer relations and product development. I'm always open to new ideas and collaborations. 😄
 
