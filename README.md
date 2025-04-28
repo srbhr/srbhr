@@ -24,5 +24,5 @@ Tailor your resume to job descriptions using AI. Resume Matcher analyzes your re
 
 We can discuss anything from AI, LLMs, and growth engineering to developer relations and product development. I'm always open to new ideas and collaborations. 😄
 
-[![Cal.com/srbhrai](https://custom-icon-badges.demolab.com/badge/Cal.com/srbhrai-white?style=for-the-badge&logo=calendar&logoColor=black)](https://cal.com/srbhr) [![srbhr.com](https://custom-icon-badges.demolab.com/badge/srbhr.com-gold?style=for-the-badge&logo=globe&logoColor=black)](https://srbhr.com) 
+[![Cal.com/srbhrai](https://custom-icon-badges.demolab.com/badge/Cal.com/srbhrai-white?style=for-the-badge&logo=calendar&logoColor=black)](https://cal.com/srbhrai) [![srbhr.com](https://custom-icon-badges.demolab.com/badge/srbhr.com-gold?style=for-the-badge&logo=globe&logoColor=black)](https://srbhr.com) 
 [![srbh077@gmail.com](https://custom-icon-badges.demolab.com/badge/-srbh077@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srbh077@gmail.com)
