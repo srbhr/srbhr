@@ -8,7 +8,7 @@ You can find more about me on my [website](https://srbhr.com) and connect with m
 
 Tailor your resume to job descriptions using AI. Resume Matcher analyzes your resume and the job description, providing suggestions to improve your chances of getting hired.
 
-[![Resume Matcher](https://custom-icon-badges.demolab.com/badge/Resume_Matcher-FCD535?style=for-the-badge&logo=rocket&logoColor=black)](https://github.com/srbhr/Resume-Matcher) [![Resume Matcher](https://custom-icon-badges.demolab.com/badge/20.4K+_Stars-090040?style=for-the-badge&logo=star)](https://github.com/srbhr/Resume-Matcher)  [![Resume Matcher](https://custom-icon-badges.demolab.com/badge/4.1K+_Forks-E6007A?style=for-the-badge&logo=fork)](https://github.com/srbhr/Resume-Matcher)  [![resumematcher.fyi](https://custom-icon-badges.demolab.com/badge/resumematcher.fyi-navy?style=for-the-badge&logo=web)](https://github.com/srbhr/Resume-Matcher) 
+[![Resume Matcher](https://custom-icon-badges.demolab.com/badge/Resume_Matcher-FCD535?style=for-the-badge&logo=rocket&logoColor=black)](https://github.com/srbhr/Resume-Matcher) [![Resume Matcher](https://custom-icon-badges.demolab.com/badge/21.2K+_Stars-090040?style=for-the-badge&logo=star)](https://github.com/srbhr/Resume-Matcher)  [![Resume Matcher](https://custom-icon-badges.demolab.com/badge/4.4K+_Forks-E6007A?style=for-the-badge&logo=fork)](https://github.com/srbhr/Resume-Matcher)  [![resumematcher.fyi](https://custom-icon-badges.demolab.com/badge/resumematcher.fyi-navy?style=for-the-badge&logo=web)](https://github.com/srbhr/Resume-Matcher) 
 
 
 
