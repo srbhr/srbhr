@@ -1,6 +1,6 @@
 # Hi! 👋 I'm [**Saurabh Rai**](https://srbhr.com), nice to meet you 😁
 
-I'm a dev-rel & engineer with over 4 years of experience working in software development, developer marketing, technical writing and AI & LLMs development. As the creator of Resume Matcher and a technical writer on various platforms, I'm passionate about building products that solve real-world problems and help people achieve their goals.
+I'm a dev-rel & engineer with over 4 years of experience working in software development, developer marketing, technical writing, and AI & LLMs development. As the creator of Resume Matcher and a technical writer on various platforms, I'm passionate about building products that solve real-world problems and help people achieve their goals.
 
 You can find more about me on my [website](https://srbhr.com) and connect with me on [LinkedIn](https://linkedin.com/in/srbhr).
 
@@ -8,7 +8,7 @@ You can find more about me on my [website](https://srbhr.com) and connect with m
 
 Tailor your resume to job descriptions using AI. Resume Matcher analyzes your resume and the job description, providing suggestions to improve your chances of getting hired.
 
-[![Resume Matcher](https://custom-icon-badges.demolab.com/badge/Resume_Matcher-FCD535?style=for-the-badge&logo=rocket&logoColor=black)](https://github.com/srbhr/Resume-Matcher) [![Resume Matcher](https://custom-icon-badges.demolab.com/badge/25.4K+_Stars-090040?style=for-the-badge&logo=star)](https://github.com/srbhr/Resume-Matcher)  [![Resume Matcher](https://custom-icon-badges.demolab.com/badge/4.6K+_Forks-E6007A?style=for-the-badge&logo=fork)](https://github.com/srbhr/Resume-Matcher)  [![resumematcher.fyi](https://custom-icon-badges.demolab.com/badge/resumematcher.fyi-navy?style=for-the-badge&logo=web)](https://github.com/srbhr/Resume-Matcher)
+[![Resume Matcher](https://custom-icon-badges.demolab.com/badge/Resume_Matcher-FCD535?style=for-the-badge&logo=rocket&logoColor=black)](https://github.com/srbhr/Resume-Matcher) [![Resume Matcher](https://custom-icon-badges.demolab.com/badge/25.6K+_Stars-090040?style=for-the-badge&logo=star)](https://github.com/srbhr/Resume-Matcher)  [![Resume Matcher](https://custom-icon-badges.demolab.com/badge/4.6K+_Forks-E6007A?style=for-the-badge&logo=fork)](https://github.com/srbhr/Resume-Matcher)  [![resumematcher.fyi](https://custom-icon-badges.demolab.com/badge/resumematcher.fyi-navy?style=for-the-badge&logo=web)](https://github.com/srbhr/Resume-Matcher)
 
 ## 🌐 Connect with me
 
@@ -18,7 +18,9 @@ Tailor your resume to job descriptions using AI. Resume Matcher analyzes your re
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@srbhr)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/srbhr.bsky.social)
 
-## 📞 If you'd like to book a call with me
+## 📞 And if you ... like to talk for hours
+
+Go Ahead Now! → [Call me ... _maybe_](https://cal.com/srbhrai)
 
 We can discuss anything from AI, LLMs, and growth engineering to developer relations and product development. I'm always open to new ideas and collaborations. 😄
 
