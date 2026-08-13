@@ -2,7 +2,7 @@
 
 I'm a dev-rel & engineer with over 5 years of experience working in software development, developer marketing, technical writing, and AI & LLMs development. As the creator of Resume Matcher and a technical writer on various platforms, I'm passionate about building products that solve real-world problems and help people achieve their goals.
 
-You can find more about me on my [website](https://srbhr.com) and connect with me on [LinkedIn](https://linkedin.com/in/srbhr).
+You can find more about me on my [website](https://srbhr.com), my [work experience](https://srbhr.com/work-experience), and connect with me on [LinkedIn](https://linkedin.com/in/srbhr).
 
 ## ✨ Checkout [Resume Matcher](https://github.com/srbhr/Resume-Matcher) to get hired faster
 
@@ -26,3 +26,9 @@ We can discuss anything from AI, LLMs, and growth engineering to developer relat
 
 [![Cal.com/srbhrai](https://custom-icon-badges.demolab.com/badge/Cal.com/srbhrai-white?style=for-the-badge&logo=calendar&logoColor=black)](https://cal.com/srbhrai) [![srbhr.com](https://custom-icon-badges.demolab.com/badge/srbhr.com-gold?style=for-the-badge&logo=globe&logoColor=black)](https://srbhr.com)
 [![srbh077@gmail.com](https://custom-icon-badges.demolab.com/badge/-srbh077@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srbh077@gmail.com)
+
+## A few of my blogs
+
+- [Well It Feels Like You Have to Put In the Reps](https://srbhr.com/blog/posts/put-in-the-reps)
+- [AI Psychosis](https://srbhr.com/blog/posts/ai-psychosis)
+- [Read more](https://srbhr.com/blog)
